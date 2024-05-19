@@ -1,0 +1,28 @@
+//Francielle Rodrigues Lindoso - Trilha de Ciência de Dados
+//PARTE 2 do desafio se encontra no script.js
+
+//PARTE 1 - Pensamento Criativo
+
+1.  Encontrarão um quebra-cabeça, o qual parece impossível de resolver com uma abordagem mais direta. Assim sendo, utilizem o pensamento lateral, visando encontrar soluções não convencionais que explorem as mais diversas perspectivas e possibilidades.
+
+R: Uma definição que temos do pensamento lateral é como o pensamento criativo que busca pontos de vista diferentes do "normal" ou soluções além das mais simples de se encontrar. Assim, um quebra-cabeças que não pode ser resolvido de forma direta, como por exemplo, juntando suas peças, pode ser solucionado com tentativas como: 
+1) encaixar as peças em outras partes do ambiente, 
+2) utilizar uma das peças como chave para outro enigma (e as outras peças seriam apenas distrações),
+3) ou observar se as partes extras ou faltantes que impedem o quebra-cabeça de se completar não formam uma mensagem ou até mesmo outro quebra-cabeça.
+
+2. Vocês devem procurar uma sala de objetos aparentemente aleatórios. Logo, utilizem o brainstorming para gerar ideias sobre como esses objetos podem ser combinados de maneiras criativas com o objetivo de  resolver especificamente o problema específico proposto na casa.
+
+R: Uma técnica bem conhecida de dinâmica em grupo, o brainstorming serve nesse caso para o grupo de pessoas descrito ter ideias sobre o que fazer com os objetos, qual a utilizade deles e se existe alguma prioridade de investigação entre eles, entre outras possibilidade. Alguns exemplos de questionamento que eu faria são:
+1) observar o ambiente para tentar encontrar algo que precise de um objeto em especifico,
+2) verificar se não existem pistas dentro dos objetos,
+3) ou tentar visualizar uma conexão inesperada entre eles, como no jogo "Conexo".
+
+3. Em alguma parte da referida casa, vocês encontrarão vários enigmas que são representações metafóricas de alguns problemas do mundo real. Portanto, usem a criatividade para decifrá-los e aplicar as soluções correspondentes aos problemas que encontraram.
+
+R: O próprio texto já diz como utilizar as metáforas, seguindo um processo de decifrar e aplicar para os outros problemas, então partindo logo pros exemplos:
+1) seguindo o quebra-cabeça apresentado no (1), é possível colocar ele como uma metáfora para indicar que a solução do enigma não está naquela sala/deverá ser revisitada depois, pois não temos todas as peças,
+2) seguindo os objetos aleatórios apresentados no (2), talvez seja um indicativo para procurar chaves ou respostas em objetos que não chamam atenção/não se encaixam com o resto das pistas,
+
+4. Procurem uma área onde possam experimentar livremente as soluções para o problema específico. Experimentem suas ideias desenvolvidas, aprendam com os resultados dos experimentos realizados  e ajustem as estratégias conforme necessário, a fim de avançar e escapar da casa.
+
+R: Apenas indica que talvez os exemplos não resolvam o enigma da casa de primeira, e isso não deve causar uma perda de entusiasmo, uma vez que vai ajudar no desenvolvimento de melhorias em todos os processos (pensamento lateral, brainstorming e entendimento de metáforas) utilizados.
