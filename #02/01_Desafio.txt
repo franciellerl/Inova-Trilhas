@@ -1,5 +1,5 @@
 //Francielle Rodrigues Lindoso - Trilha de Ciência de Dados
-//PARTE 2 do desafio se encontra no script.js
+//PARTE 2 do desafio se encontra no 02_Desafio.js
 
 //PARTE 1 - Pensamento Criativo
 
