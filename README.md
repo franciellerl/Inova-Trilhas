@@ -11,7 +11,7 @@ Repositório com os desafios feitos para o Trilhas Inova Maranhão - Trilha de D
 * [Desafio 03](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#03)
   * Desafio de desenvolvimento de dashboard, com ênfase na visualização de dados.
  
-* [Desafio 04]
+* Desafio 04
   * Desafio em grupo, houve a criação de um dashboard com informações do projeto proposto pela equipe.
  
 * [Desafio 05](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#05)
