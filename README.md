@@ -1,4 +1,4 @@
-# Trilhas
+# Desafios Inova Trilhas
 
 Repositório com os desafios feitos para o Trilhas Inova Maranhão - Trilha de Dados.
 
