@@ -1,30 +1,32 @@
-# Programa Trilhas Inova
-O objetivo do Programa Trilhas Inova Maranhão é qualificar pessoas, a partir de 16 anos, em formação tecnológica, nas áreas de programação front-end, programação back-end, programação de jogos, design, análise de dados e carreiras, possibilitando uma visão empreendedora, atendendo as demandas de mão de obra locais, nacionais e
-internacionais, fomentando a empregabilidade nas áreas de tecnologia e como consequência, promovendo justiça social.
+[![English](https://img.shields.io/badge/lang-EN-blue)](README.md)
+[![Português](https://img.shields.io/badge/lang-PT--BR-white)](README.br.md)
 
-## Desafios
-Desafios feitos para a Trilha de Dados:
+# Trilhas Inova Program
+The goal of the Trilhas Inova Maranhão Program is to qualify people aged 16 and up in technology training, covering areas such as front-end programming, back-end programming, game programming, design, data analysis and careers, enabling an entrepreneurial mindset, meeting local, national and international workforce demands, fostering employability in technology fields and, as a result, promoting social justice.
 
-* [Desafio 01](https://github.com/franciellerl/Trilhas/tree/main/%2301) (#01)
-  * Desafio de 10 questões com foco no aprendizado em JavaScript.
+## Challenges
+Challenges created for the Data Track:
+
+* [Challenge 01](https://github.com/franciellerl/Trilhas/tree/main/%2301) (#01)
+  * A 10-question challenge focused on learning JavaScript.
  
-* [Desafio 02](https://github.com/franciellerl/Trilhas/tree/main/%2302) (#02)
-  * Desafio duo, com metade das questões voltadas para conhecimentos em JavaScript e a metade voltadas para o desenvolvimento do Pensamento Criativo.
+* [Challenge 02](https://github.com/franciellerl/Trilhas/tree/main/%2302) (#02)
+  * A duo challenge, with half the questions focused on JavaScript knowledge and the other half on developing Creative Thinking.
 
-* [Desafio 03](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#03)
-  * Desafio de desenvolvimento de dashboard, com ênfase na visualização de dados.
+* [Challenge 03](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#03)
+  * A dashboard development challenge, with emphasis on data visualization.
  
-* Desafio 04
-  * Desafio em grupo, houve a criação de um dashboard com informações do projeto proposto pela equipe.
+* Challenge 04
+  * A group challenge in which a dashboard was created with information about the project proposed by the team.
  
-* [Desafio 05](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#05)
-  * Desafio com foco no tratamento, limpeza e manipulação de dados por meio do Jupyter Notebook.
+* [Challenge 05](https://github.com/franciellerl/Trilhas/tree/main/%2303) (#05)
+  * A challenge focused on data processing, cleaning and manipulation using Jupyter Notebook.
 
-## Resultados
+## Examples
 * 01
 ````
-//Francielle Rodrigues Lindoso - Trilha de Ciência de Dados
-//QUESTÃO 1
+//Francielle Rodrigues Lindoso - Data Track
+//1
 
 let nome = prompt("Qual é o seu nome?");
 if (nome){
@@ -41,10 +43,10 @@ else {
 * 05
 <img src="Outros/Desafio_5.png" width="500">
 
-## Ferramentas Utilizadas
+## Technologies Used
 * Javascript
 * Jupyter Notebook
 * Google Looker Studio
 
-## Competências Demonstradas
-Análise e interpretação de dados, desenvolvimento de dashboards para visualização de informações, tratamento e organização de bases de dados em Jupyter Notebook, além da aplicação de lógica de programação em JavaScript para resolução de problemas.
+## Skills Demonstrated
+Data analysis and interpretation, dashboard development for information visualization, data cleaning and organization in Jupyter Notebook, as well as the application of JavaScript programming logic for problem solving.
