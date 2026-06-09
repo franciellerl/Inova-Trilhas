@@ -1,5 +1,5 @@
-[![Português](https://img.shields.io/badge/lang-PT--BR-green)](README.md)
-[![English](https://img.shields.io/badge/lang-EN-white)](README.en.md)
+[![Português](https://img.shields.io/badge/lang-PT--BR-green)](README.br.md)
+[![English](https://img.shields.io/badge/lang-EN-white)](README.md)
 
 # Programa Trilhas Inova
 O objetivo do Programa Trilhas Inova Maranhão é qualificar pessoas, a partir de 16 anos, em formação tecnológica, nas áreas de programação front-end, programação back-end, programação de jogos, design, análise de dados e carreiras, possibilitando uma visão empreendedora, atendendo as demandas de mão de obra locais, nacionais e
